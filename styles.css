@@ -1,5 +1,36 @@
-/* Attributions by Frontend Mentor */
+/* General Styles */
 
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/Roboto-Bold.ttf') format('truetype'),
+         url('assets/fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: bold; 
+    font-style: normal; 
+  }
+
+
+body {
+    margin: auto;
+}
+
+.main-heading img{
+    max-width: 100%;
+}
+
+.section-1 h1 {
+    font-family: 'Roboto Bold', sans-serif;
+    margin-left: 1rem;
+}
+.section-1 p {
+    font-family: 'Roboto Regular', sans-serif;
+    font-style: normal;
+    margin-left: 1rem;
+}
+
+.list {
+    margin-left: 1rem;
+}
+/* Attributions by Frontend Mentor */
 .attribution { 
     font-size: 11px; 
     text-align: center; 
