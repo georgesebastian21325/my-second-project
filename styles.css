@@ -14,7 +14,7 @@ body {
 }
 
 .main-heading img{
-    max-width: 100%;
+    max-width: 21.6rem;
 }
 
 .section-1 h1 {
@@ -25,6 +25,7 @@ body {
 .section-1 p {
     font-family: 'Roboto Regular', sans-serif;
     font-style: normal;
+    font-size: 0.9rem;
     margin-left: 1rem;
 }
 
@@ -46,7 +47,7 @@ body {
 .input-field input{
     margin-left: 1rem;
     height: 3rem;
-    width: 20rem;
+    width: 84%;
     border-radius: 0.3rem;
     border-width: 0.10rem;
 }
@@ -62,13 +63,16 @@ body {
     border-radius: 0.5rem;
     color: white;
     font-weight: bold;
-    width: 20.5rem;
+    width: 86%;
     height: 3rem;
     background-color:#242741;
     border: 0rem;;
     margin: 1rem 0 0 1.1rem;
 }
 
+@media screen() {
+    
+}
 
 /* Attributions by Frontend Mentor */
 .attribution { 
