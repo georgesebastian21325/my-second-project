@@ -70,3 +70,15 @@
     width: 23rem;
     margin: 10rem 7.5rem 0 2rem;
 }
+
+/* Attributions by Frontend Mentor */
+.attribution { 
+    font-size: 1rem;
+    margin: 3rem 0rem 0 5rem;
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    font-size: 0.9rem;
+    color: hsl(228, 45%, 44%); 
+}
