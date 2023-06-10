@@ -1,0 +1,72 @@
+/* General Styles */
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/Roboto-Bold.ttf') format('truetype'),
+         url('assets/fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+.details h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 12rem;
+    margin-left: 19rem;
+    font-size: 2.9rem;
+}
+
+.details p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    text-align: left;
+    font-size: 1rem;
+    margin-left: 19rem;
+}
+
+
+.container img{
+    width: 20rem;
+    margin: 10rem 10rem 0 2rem;
+}
+
+.icon-container img {
+    margin-top: 1rem;
+    margin-left: 2.5rem;
+    width: 1.2rem;
+}
+
+.icon-container p {
+    margin-top: -1.3rem;
+    margin-left: 20.9rem;
+    font-size: 0.9rem;
+}
+
+.form-section h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin-top: 4rem;
+    margin-left: 18.9rem;
+}
+
+.input-field input{
+    margin-left: 18.3rem;
+    width: 24rem;
+}
+
+.button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9rem;
+    margin-left: 14.3rem;
+    width: 24rem;
+    color: white;
+    font-weight: bold;
+    height: 2.5rem;
+    border-radius: 0.3rem;
+    border-style: none;
+    background-color: hsl(228, 45%, 32%);
+}
+
+.desktop-image img {
+    width: 23rem;
+    margin: 10rem 7.5rem 0 2rem;
+}
